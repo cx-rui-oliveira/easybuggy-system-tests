@@ -2,4 +2,4 @@ package easybuggy4sb
 
 import os
 
-access_key = "AKIA1234567890"
+aws_access_key = "AKIA1234567890"
